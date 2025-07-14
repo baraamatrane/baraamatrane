@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer, helping clients bring their ideas to life <br>👯 I’m always open to collaborating on exciting projects!<br>🤝 I’m currently looking for help with improving my backend development skills<br>🌱 I’m always expanding my skill set!<br>💬 Freelancing tips and best practices , How to get started ?<br>⚡Did you know? I’m a coffee enthusiast who can’t start coding without a cup of espresso
+🔭 I’m currently working as a Freelancer, helping clients bring their ideas to life <br>👯 I’m always open to collaborating on exciting projects!<br>🤝 I’m currently looking for help with improving my backend development skills<br>🌱 I’m always expanding my skill set!<br>💬 Freelancing tips and best practices , How to get started ?
 
 
 ## 🌐 Socials:
